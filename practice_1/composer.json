@@ -1,0 +1,9 @@
+{
+    "name": "asciito/uml-practice-one",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Asciito\\UMLPracticeOne\\": "src/"
+        }
+    }
+}
